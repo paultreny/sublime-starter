@@ -3,6 +3,8 @@ Sublime Starter Settings and Configuration
 The Preferences.sublime-settings file is where a user will place all their personal settings to override the Sublime Text defaults. 
 Copying and pasting this Preferences.sublime-settings file into the Sublime settings will provide the Basic Settings below.
   
+For more information, visit the (corresponding article)[http://scotch.io/bar-talk/x/sublime-text-starter-kit]
+  
 Instructions
 -----------------------------------------------
 1.  Install the UbuntuMono.ttf font to your computer
@@ -37,7 +39,7 @@ Install these using the Package Manager provided by [Will Bond] (http://wbond.ne
 * AdvancedNewFile
 * Bracket Highlighter
 * Gist
-* DocBlockrf
+* DocBlockr
  
 ### Recommended Themes
 * Theme - Flatland
